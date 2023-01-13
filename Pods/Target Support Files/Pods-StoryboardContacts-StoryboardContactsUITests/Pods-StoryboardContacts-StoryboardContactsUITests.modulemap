@@ -1,0 +1,6 @@
+framework module Pods_StoryboardContacts_StoryboardContactsUITests {
+  umbrella header "Pods-StoryboardContacts-StoryboardContactsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

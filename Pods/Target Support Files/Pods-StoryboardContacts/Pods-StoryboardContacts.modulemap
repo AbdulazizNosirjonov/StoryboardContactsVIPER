@@ -1,0 +1,6 @@
+framework module Pods_StoryboardContacts {
+  umbrella header "Pods-StoryboardContacts-umbrella.h"
+
+  export *
+  module * { export * }
+}
